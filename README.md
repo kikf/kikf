@@ -1,18 +1,15 @@
 <p align="center ">
 <h1 align="center">Hi 👋, I'm Heki</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kikf&show_icons=true&theme=dracula)
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kikf&label=Profile%20views&color=0e75b6&style=flat" alt="kikf" /> </p>
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kikf&show_icons=true&theme=dracula" alt="kikf" /></p>
 
 <p align="center"> <a href="https://twitter.com/kaa6" target="blank"><img src="https://img.shields.io/twitter/follow/kaa6?logo=twitter&style=for-the-badge" alt="kaa6" /></a> </p>
 
-<h1 align="center"> 
-  - 🌱 I’m currently learning React and React Native
-  - 🤝 I’m looking for help with React 
-  - ⚡ Fun fact i have miopia 
-</h1> 
+<div align="center"> - 🌱 I’m currently learning React and React Native </div> 
+<div align="center"> - 🤝 I’m looking for help with React </div> 
+<div align="center"> - ⚡ Fun fact i have miopia </h1> 
+
  
 
 
