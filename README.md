@@ -8,11 +8,11 @@
 
 <p align="center"> <a href="https://twitter.com/kaa6" target="blank"><img src="https://img.shields.io/twitter/follow/kaa6?logo=twitter&style=for-the-badge" alt="kaa6" /></a> </p>
 
-<h1 align="center"> - 🌱 I’m currently learning **React and React Native** </h1>
-
-<h1 align="center"> - 🤝 I’m looking for help with **React** </h1>
-
-<h1 align="center"> - ⚡ Fun fact **i have miopia** </h1> 
+<p align="center"> - 🌱 I’m currently learning **React and React Native** 
+  - 🤝 I’m looking for help with **React** 
+  - ⚡ Fun fact **i have miopia** 
+</p> 
+ 
 
 
 <h3 align="center">Languages and Tools:</h3>
